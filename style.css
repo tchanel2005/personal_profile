@@ -1,3 +1,12 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,200,300,100,900,500,600,700,800);
 
 
+
+body {
+            background-image:url("807989-free-background-pictures.jpg");
+background-repeat:no-repeat;
+background-size:cover}
+a:link{color:green;}
+a:visited{color:green;}
+a:hover{color:blue;}
+   .purpletext{color:purple}
